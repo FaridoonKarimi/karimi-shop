@@ -1,0 +1,6 @@
+{
+  "name": "Karimi Shop",
+  "description": "فروشگاه آنلاین لوکس کریمی شاپ مجهز به کاتالوگ دقیق ۲۰ محصول، سبد خرید، کدهای تخفیف، فاکتور دیجیتالی، رهگیری آنی سفارشات و دستیار مشاور هوشمند هوش مصنوعی Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
